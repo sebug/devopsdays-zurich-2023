@@ -30,3 +30,23 @@ Action items - track, and the incident is not really over until all the action i
 ### How's it going?
 How is the team doing? (Toil). Forecast demand. Forecast work to be done.
 
+Do we name names? Yes, but the blameless part is really "so what".
+
+## From Backend Developer to DevOps
+@Ladymeyy
+
+Documentation - write How to's
+
+Advantage of teaching early on - you still have fresh eyes for the stuff other people already forgot.
+
+## Bridging dev and ops with eBPF
+Before: stupid
+
+goal: expertise-driven
+
+Adjust privileges to expertise
+
+Dashboards *that actually make sense* - pointing to actual stuff that happens in the application.
+
+Example: IP logs - that doesn't even, like, make sense, in a container-based world.
+
