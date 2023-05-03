@@ -52,3 +52,6 @@ Dashboards *that actually make sense* - pointing to actual stuff that happens in
 
 Example: IP logs - that doesn't even, like, make sense, in a container-based world.
 
+## Saying No
+Eisenhower matrix: does this work if you're not the one deciding?
+
