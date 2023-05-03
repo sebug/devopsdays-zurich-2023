@@ -11,3 +11,22 @@ Disagreement doesn't have to be conflict.
 Manual of Me
 
 Tip for smaller teams: Rely on structured feedback, not just the coffe break talk.
+
+## Reporting on Reliability
+@rmedranollamas
+
+ - What the hell? &lt;- Incident status
+ - What was that? &lt;- Postmortem
+ - How's it going? &lt; Periodic Reviews
+
+### What the hell
+Real-time incident management. Don't phone. Live docs.
+
+### What was that?
+Postmortem. Make it blameless.
+
+Action items - track, and the incident is not really over until all the action items are completed.
+
+### How's it going?
+How is the team doing? (Toil). Forecast demand. Forecast work to be done.
+
