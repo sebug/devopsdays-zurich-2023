@@ -40,6 +40,8 @@ Documentation - write How to's
 Advantage of teaching early on - you still have fresh eyes for the stuff other people already forgot.
 
 ## Bridging dev and ops with eBPF
+[Slides](https://www.slideshare.net/raphink/devopsdays-zurich-2023-bridging-dev-and-ops-with-ebpf-extending-observability-upwards-and-downwards)
+
 Before: stupid
 
 goal: expertise-driven
