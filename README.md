@@ -55,3 +55,15 @@ Example: IP logs - that doesn't even, like, make sense, in a container-based wor
 ## Saying No
 Eisenhower matrix: does this work if you're not the one deciding?
 
+## Developer productivity
+Citation needed: Happy developers write better code. Maybe it's our suffering that is the secret ingredient.
+
+Build cache: if the inputs stay the same then we can reuse the output.
+
+[Predictive Test Selection](https://research.facebook.com/publications/predictive-test-selection/)
+
+[Test Parallelization with vstest](https://learn.microsoft.com/en-us/azure/devops/pipelines/test/parallel-testing-vstest?view=azure-devops)
+
+## CIA
+These three buckets - confidentiality, integrity, availability
+
