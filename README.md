@@ -69,3 +69,14 @@ These three buckets - confidentiality, integrity, availability
 
 https://www.wiktoriadalach.com
 
+## Development process of Cloud native applications
+Feature toggles: they really tried for a unified set of features, no per-customer toggles.
+
+## Effective Observability in Microservice Architecture
+You shouldn't have to do data transformation just to follow the trace.
+
+## Continuous Compliance
+https://www.beautifulabstraction.com/compliance-by-design/
+
+Example: Release notes
+
